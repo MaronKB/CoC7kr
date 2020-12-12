@@ -1,0 +1,32 @@
+@font-face {
+     font-family: 'KOMACON';
+     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/KOMACON.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}
+@font-face {
+    font-family: 'MapoAgape';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoAgapeA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Atomy-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Atomy-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.coc7.sheet .cash textarea,
+.coc7.sheet .sheet-header,
+.coc7.sheet .sheet-tabs,
+.coc7.chat-card .card-header h3
+.worldbuilding.chat-card .card-header h3{
+	font-family: 'KOMACON';
+}
+.coc7 .form-header,
+.coc7.sheet .inventory-list .inventory-header h3{
+	font-family: 'MapoAgape';
+}
+.coc7.sheet.actor .sheet-section h3{
+	font-family: 'Atomy-Bold';
+}

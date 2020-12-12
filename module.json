@@ -1,0 +1,25 @@
+{
+	"name": "CoC7kr",
+	"title": "Translation: Korean [The Call of Cthulhu 7th edition]",
+	"description": "<p>크툴루의 부름 7판 한국어화</p>",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.7.7",
+	"compatibleCoreVersion": "0.7.8",
+	"author": "mrkb",
+	"esmodules": [
+	"babele-register.js"
+	],
+	"scripts": [],
+	"styles": ["style.css"],
+	"packs": [],
+	"languages": [
+	{
+      "lang": "ko",
+      "name": "한국어(Korean)",
+      "path": "ko.json"
+    }
+	],
+	"url": "https://github.com/MaronKB/CoC7kr",
+	"manifest": "https://raw.githubusercontent.com/MaronKB/CoC7kr/master/module.json",
+	"download": "https://github.com/MaronKB/CoC7kr/archive/master.zip"
+}

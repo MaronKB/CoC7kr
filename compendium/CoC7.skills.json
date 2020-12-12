@@ -1,0 +1,468 @@
+{
+	"label": "탐사자 기능",
+	"mapping": {
+		"specialization": "data.specialization"
+		},
+	"entries": [
+		{
+			"id": "Accounting",
+			"name": "회계",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Acting",
+			"name": "연기",
+			"specialization": "예술/공예",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Animal Handling",
+			"name": "동물 다루기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Anthropology",
+			"name": "인류학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Appraise",
+			"name": "감정",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Archaeology",
+			"name": "고고학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Art/Craft (Any)",
+			"name": "예술/공예 (다양)",
+			"specialization": "예술/공예",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Artillery",
+			"name": "포격",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Astronomy",
+			"name": "천문학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Axe",
+			"name": "도끼",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Biology",
+			"name": "생물학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Botany",
+			"name": "식물학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Bow",
+			"name": "활",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Brawl",
+			"name": "격투",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Chainsaw",
+			"name": "동력톱",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Charm",
+			"name": "매혹",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Chemistry",
+			"name": "화학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Climb",
+			"name": "오르기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Computer Use",
+			"name": "컴퓨터 사용",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Credit Rating",
+			"name": "재력",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Cryptography",
+			"name": "암호학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Cthulhu Mythos",
+			"name": "크툴루 신화",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Demolitions",
+			"name": "폭파",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Disguise",
+			"name": "변장",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Diving",
+			"name": "잠수",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Dodge",
+			"name": "회피",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Drive Auto",
+			"name": "자동차 운전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Electrical Repair",
+			"name": "전기 수리",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Electronics",
+			"name": "전자기기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Fast Talk",
+			"name": "말재주",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Fine Art",
+			"name": "미술",
+			"specialization": "예술/공예",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "First Aid",
+			"name": "응급처치",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Flail",
+			"name": "도리깨",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Flamethrower",
+			"name": "화염방사기",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Forensics",
+			"name": "수사과학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Forgery",
+			"name": "위조",
+			"specialization": "예술/공예",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Garrote",
+			"name": "가롯테",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Geology",
+			"name": "지질학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Handgun",
+			"name": "권총",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Heavy Weapons",
+			"name": "중화기",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "History",
+			"name": "역사",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Hypnosis",
+			"name": "최면술",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Intimidate",
+			"name": "위협",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Jump",
+			"name": "도약",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Language (Any)",
+			"name": "언어 (다양)",
+			"specialization": "언어",
+			"description": ""
+		},
+		{
+			"id": "Language (Other)",
+			"name": "언어 (외국어)",
+			"specialization": "언어",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Language (Own)",
+			"name": "언어 (모국어)",
+			"specialization": "언어",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Law",
+			"name": "법률",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Library Use",
+			"name": "자료 조사",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Listen",
+			"name": "듣기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Locksmith",
+			"name": "열쇠공",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Machine Gun",
+			"name": "기관총",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Mathematics",
+			"name": "수학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Mechanical Repair",
+			"name": "기계 수리",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Medicine",
+			"name": "의료",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Meteorology",
+			"name": "기상학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Natural World",
+			"name": "자연",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Navigate",
+			"name": "항법",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Occult",
+			"name": "오컬트",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Operate Heavy Machinery",
+			"name": "중장비 조작",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Persuade",
+			"name": "설득",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Pharmacy",
+			"name": "약학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Photography",
+			"name": "사진",
+			"specialization": "예술/공예",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Physics",
+			"name": "물리학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Pilot (Any)",
+			"name": "조종 (다양)",
+			"specialization": "조종",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Psychoanalysis",
+			"name": "정신분석",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Psychology",
+			"name": "심리학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Read Lips",
+			"name": "독순술",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Ride",
+			"name": "승마",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Rifle/Shotgun",
+			"name": "라이플/산탄총",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Science (Any)",
+			"name": "과학 (다양)",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Sleight of Hand",
+			"name": "손놀림",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Spear",
+			"name": "창",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Spot Hidden",
+			"name": "관찰력",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Stealth",
+			"name": "은밀행동",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Submachine Gun",
+			"name": "기관단총",
+			"specialization": "사격",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Survival (Any)",
+			"name": "생존술 (다양)",
+			"specialization": "생존술",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Swim",
+			"name": "수영",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Sword",
+			"name": "도검",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Throw",
+			"name": "투척",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Track",
+			"name": "추적",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Track (Any)",
+			"name": "추적 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Whip",
+			"name": "채찍",
+			"specialization": "근접전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		{
+			"id": "Zoology",
+			"name": "동물학",
+			"specialization": "과학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		}
+	]
+}
