@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/MaronKB/CoC7kr/master/module.json
 
 이후 해당 모듈을 활성화하고 설정에서 한국어(Korean)을 선택하시면 됩니다.
 
-###Postscript
+### Postscript
 
 해당 시스템은 펄프 룰을 지원합니다. 시스템 설정에서 활성화할 수 있습니다.
 
