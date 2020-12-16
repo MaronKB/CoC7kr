@@ -11,22 +11,45 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Atomy-Bold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Atomy-Bold.woff') format('woff');
+    font-family: 'HangeulNuri-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/HangeulNuri-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GyeonggiTitleM';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiTitleM.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 .coc7.sheet .cash textarea,
 .coc7.sheet .sheet-header,
 .coc7.sheet .sheet-tabs,
-.coc7.chat-card .card-header h3
+.coc7.chat-card .card-header h3,
 .worldbuilding.chat-card .card-header h3{
 	font-family: 'KOMACON';
 }
 .coc7 .form-header,
 .coc7.sheet .inventory-list .inventory-header h3{
+	font-family: 'GyeonggiTitleM';
+}
+#chat-log .card-header,
+.coc7.sheet.actor .sheet-section h3,
+.defaultFont,
+.sheetV2{
 	font-family: 'MapoAgape';
 }
-.coc7.sheet.actor .sheet-section h3{
-	font-family: 'Atomy-Bold';
+#chat-log .message,
+.cursive,
+.sheetV2.character form .container .sheet-header .characteristics .char-box .charac-score,
+.sheetV2.character form .container .sheet-header .characteristics input,
+.sheetV2.character form .container .sheet-body .itemV2 .item-name,
+.sheetV2.character form .container .sheet-body .itemV2 .item-score{
+	font-family: 'NEXON Lv1 Gothic OTF';
 }
