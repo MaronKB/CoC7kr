@@ -2,9 +2,9 @@
 	"name": "CoC7kr",
 	"title": "Translation: Korean [The Call of Cthulhu 7th edition]",
 	"description": "<p>크툴루의 부름 7판 한국어화</p>",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minimumCoreVersion" : "0.7.7",
-	"compatibleCoreVersion": "0.7.8",
+	"compatibleCoreVersion": "1.0.0",
 	"author": "mrkb",
 	"esmodules": [
 	"babele-register.js"
